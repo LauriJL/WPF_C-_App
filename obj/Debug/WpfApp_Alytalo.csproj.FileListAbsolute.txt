@@ -1,0 +1,95 @@
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo\obj\Debug\MainWindow.g.cs
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo\obj\Debug\App.g.cs
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo\obj\Debug\WpfApp_Alytalo_MarkupCompile.cache
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo\obj\Debug\WpfApp_Alytalo_MarkupCompile.lref
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo\bin\Debug\WpfApp_Alytalo.exe.config
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo\bin\Debug\WpfApp_Alytalo.exe
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo\bin\Debug\WpfApp_Alytalo.pdb
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo\bin\Debug\CircularGauge.dll
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo\obj\Debug\MainWindow.baml
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo\obj\Debug\WpfApp_Alytalo.g.resources
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo\obj\Debug\WpfApp_Alytalo.Properties.Resources.resources
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo\obj\Debug\WpfApp_Alytalo.csproj.GenerateResource.cache
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo\obj\Debug\WpfApp_Alytalo.csproj.CopyComplete
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo\obj\Debug\WpfApp_Alytalo.exe
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo\obj\Debug\WpfApp_Alytalo.pdb
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo\obj\Debug\WpfApp_Alytalo.csprojAssemblyReference.cache
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASLINE_NEWLAYOUT _DATAGRID\bin\Debug\WpfApp_Alytalo.exe.config
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASLINE_NEWLAYOUT _DATAGRID\bin\Debug\WpfApp_Alytalo.exe
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASLINE_NEWLAYOUT _DATAGRID\bin\Debug\WpfApp_Alytalo.pdb
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASLINE_NEWLAYOUT _DATAGRID\bin\Debug\CircularGauge.dll
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASLINE_NEWLAYOUT _DATAGRID\obj\Debug\MainWindow.g.cs
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASLINE_NEWLAYOUT _DATAGRID\obj\Debug\App.g.cs
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASLINE_NEWLAYOUT _DATAGRID\obj\Debug\WpfApp_Alytalo_MarkupCompile.cache
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASLINE_NEWLAYOUT _DATAGRID\obj\Debug\WpfApp_Alytalo_MarkupCompile.lref
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASLINE_NEWLAYOUT _DATAGRID\obj\Debug\MainWindow.baml
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASLINE_NEWLAYOUT _DATAGRID\obj\Debug\WpfApp_Alytalo.g.resources
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASLINE_NEWLAYOUT _DATAGRID\obj\Debug\WpfApp_Alytalo.Properties.Resources.resources
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASLINE_NEWLAYOUT _DATAGRID\obj\Debug\WpfApp_Alytalo.csproj.GenerateResource.cache
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASLINE_NEWLAYOUT _DATAGRID\obj\Debug\WpfApp_Alytalo.csproj.CopyComplete
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASLINE_NEWLAYOUT _DATAGRID\obj\Debug\WpfApp_Alytalo.exe
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASLINE_NEWLAYOUT _DATAGRID\obj\Debug\WpfApp_Alytalo.pdb
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASLINE_NEWLAYOUT _DATAGRID\obj\Debug\WpfApp_Alytalo.csprojAssemblyReference.cache
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE_NEWLAYOUT_TEST\bin\Debug\WpfApp_Alytalo.exe.config
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE_NEWLAYOUT_TEST\bin\Debug\WpfApp_Alytalo.exe
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE_NEWLAYOUT_TEST\bin\Debug\WpfApp_Alytalo.pdb
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE_NEWLAYOUT_TEST\bin\Debug\CircularGauge.dll
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE_NEWLAYOUT_TEST\obj\Debug\WpfApp_Alytalo.csprojAssemblyReference.cache
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE_NEWLAYOUT_TEST\obj\Debug\MainWindow.g.cs
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE_NEWLAYOUT_TEST\obj\Debug\App.g.cs
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE_NEWLAYOUT_TEST\obj\Debug\WpfApp_Alytalo_MarkupCompile.cache
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE_NEWLAYOUT_TEST\obj\Debug\WpfApp_Alytalo_MarkupCompile.lref
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE_NEWLAYOUT_TEST\obj\Debug\MainWindow.baml
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE_NEWLAYOUT_TEST\obj\Debug\WpfApp_Alytalo.g.resources
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE_NEWLAYOUT_TEST\obj\Debug\WpfApp_Alytalo.Properties.Resources.resources
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE_NEWLAYOUT_TEST\obj\Debug\WpfApp_Alytalo.csproj.GenerateResource.cache
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE_NEWLAYOUT_TEST\obj\Debug\WpfApp_Alytalo.csproj.CopyComplete
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE_NEWLAYOUT_TEST\obj\Debug\WpfApp_Alytalo.exe
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE_NEWLAYOUT_TEST\obj\Debug\WpfApp_Alytalo.pdb
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE\bin\Debug\WpfApp_Alytalo.exe.config
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE\bin\Debug\WpfApp_Alytalo.exe
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE\bin\Debug\CircularGauge.dll
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE\obj\Debug\MainWindow.g.cs
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE\obj\Debug\App.g.cs
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE\obj\Debug\WpfApp_Alytalo_MarkupCompile.cache
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE\obj\Debug\WpfApp_Alytalo_MarkupCompile.lref
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE\obj\Debug\MainWindow.baml
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE\obj\Debug\WpfApp_Alytalo.g.resources
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE\obj\Debug\WpfApp_Alytalo.Properties.Resources.resources
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE\obj\Debug\WpfApp_Alytalo.csproj.GenerateResource.cache
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE\obj\Debug\WpfApp_Alytalo.csproj.CopyComplete
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE\obj\Debug\WpfApp_Alytalo.exe
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE\obj\Debug\WpfApp_Alytalo.pdb
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE\bin\Debug\WpfApp_Alytalo.pdb
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_BASELINE\obj\Debug\WpfApp_Alytalo.csprojAssemblyReference.cache
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen\obj\Debug\MainWindow.g.cs
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen\obj\Debug\App.g.cs
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen\obj\Debug\WpfApp_Alytalo_MarkupCompile.cache
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen\obj\Debug\WpfApp_Alytalo_MarkupCompile.lref
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen\obj\Debug\WpfApp_Alytalo.exe
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen\obj\Debug\WpfApp_Alytalo.pdb
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen\bin\Debug\WpfApp_Alytalo.exe.config
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen\bin\Debug\WpfApp_Alytalo.exe
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen\bin\Debug\WpfApp_Alytalo.pdb
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen\bin\Debug\CircularGauge.dll
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen\obj\Debug\MainWindow.baml
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen\obj\Debug\WpfApp_Alytalo.g.resources
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen\obj\Debug\WpfApp_Alytalo.Properties.Resources.resources
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen\obj\Debug\WpfApp_Alytalo.csproj.GenerateResource.cache
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen\obj\Debug\WpfApp_Alytalo.csproj.CopyComplete
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen_V2\bin\Debug\WpfApp_Alytalo.exe.config
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen_V2\bin\Debug\WpfApp_Alytalo.exe
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen_V2\bin\Debug\WpfApp_Alytalo.pdb
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen_V2\bin\Debug\CircularGauge.dll
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen_V2\obj\Debug\MainWindow.g.cs
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen_V2\obj\Debug\App.g.cs
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen_V2\obj\Debug\WpfApp_Alytalo_MarkupCompile.cache
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen_V2\obj\Debug\WpfApp_Alytalo_MarkupCompile.lref
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen_V2\obj\Debug\MainWindow.baml
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen_V2\obj\Debug\WpfApp_Alytalo.g.resources
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen_V2\obj\Debug\WpfApp_Alytalo.Properties.Resources.resources
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen_V2\obj\Debug\WpfApp_Alytalo.csproj.GenerateResource.cache
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen_V2\obj\Debug\WpfApp_Alytalo.csproj.CopyComplete
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen_V2\obj\Debug\WpfApp_Alytalo.exe
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen_V2\obj\Debug\WpfApp_Alytalo.pdb
+C:\Users\laurileskinen\source\repos\WpfApp_Alytalo_LauriLeskinen_v2\obj\Debug\WpfApp_Alytalo.csprojAssemblyReference.cache

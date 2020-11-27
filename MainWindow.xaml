@@ -1,0 +1,66 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp_Alytalo"
+        xmlns:CircularGauge="clr-namespace:CircularGauge;assembly=CircularGauge" x:Class="WpfApp_Alytalo.MainWindow"
+        mc:Ignorable="d"
+        Title="Talon hallintakäyttöliittymä" Height="800" Width="1200">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition x:Name="Col1" Width="300" />
+            <ColumnDefinition x:Name="Col2" Width="397" />
+            <ColumnDefinition x:Name="Col3" Width="407" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Talo -->
+        <TextBlock x:Name="txblckTalo" HorizontalAlignment="Center" Margin="10,77,197,0" TextWrapping="Wrap" Text="Talo" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" Height="35" Width="94"/>
+        <TextBox x:Name="txtLampotila" HorizontalAlignment="Left" Height="40" Margin="10,21,0,0" TextWrapping="Wrap" Padding="2 0 0 0" Text="Lämpötila" BorderThickness="1" BorderBrush="Black" Background="Coral" VerticalAlignment="Top" Width="277" FontSize="24" FontWeight="Bold"/>
+        <TextBlock x:Name="txblckTaloTemp" Grid.Column="0" HorizontalAlignment="Left" Margin="10,114,0,0" TextWrapping="Wrap" Text="Nykyinen lämpötila" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Width="179" Height="21"/>
+        <TextBox x:Name="txtTempNow" Grid.Column="0" HorizontalAlignment="Left" Height="40" Margin="10,140,0,0" Padding="0 10 0 0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55" TextAlignment="Center" FontWeight="Bold"/>
+        <TextBlock x:Name="txblckTaloTempSet" Grid.Column="0" HorizontalAlignment="Left" Margin="10,201,0,0" TextWrapping="Wrap" Text="Uusi lämpötila" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Width="146" Height="21"/>
+        <TextBox x:Name="txtTempSet" Grid.Column="0" HorizontalAlignment="Left" Height="40" Margin="10,226,0,0" Padding="0 10 0 0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55" FontWeight="Bold" TextAlignment="Center"/>
+        <Button x:Name="btnTempSet" Content="Aseta" Grid.Column="0" HorizontalAlignment="Left" Margin="10,269,0,0" VerticalAlignment="Top" Width="75" FontWeight="Bold" Click="btnTempSet_Click" Height="20"/>
+
+        <!-- Valot -->
+        <TextBox x:Name="txtValot" HorizontalAlignment="Left" Height="40" Margin="10,22,0,0" TextWrapping="Wrap" Padding="2 0 0 0" Text="Valot" BorderThickness="1" BorderBrush="Black" Background="Coral" VerticalAlignment="Top" Width="378" FontSize="24" FontWeight="Bold" Grid.Column="1"/>
+
+        <!-- Olohuone -->
+        <TextBlock x:Name="txblckOlohuone" Grid.Column="1" HorizontalAlignment="Center" Margin="10,77,294,0" TextWrapping="Wrap" Text="Olohuone" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" Height="35" Width="94"/>
+        <TextBlock x:Name="txblckOlohuoneValot" Grid.Column="1" HorizontalAlignment="Left" Margin="10,113,0,0" TextWrapping="Wrap" Text="Valaisimet" VerticalAlignment="Top" Height="25" Width="97" FontSize="16" FontWeight="Bold" RenderTransformOrigin="-0.506,0.294"/>
+        <Button x:Name="btnValo1On" Grid.Column="1" Content="On" HorizontalAlignment="Left" Margin="10,143,0,0" VerticalAlignment="Top" Width="55" Height="40" FontWeight="Bold" Click="btnValoOn_Click" RenderTransformOrigin="0.026,0.498"/>
+        <TextBox x:Name="txtValo1" Grid.Column="1" HorizontalAlignment="Center" Height="40" Padding="0 10 0 0" Margin="69,143,143,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="186" TextAlignment="Center" FontWeight="Bold" BorderThickness="2" HorizontalContentAlignment="Center"/>
+        <Button x:Name="btnValo1Off" Grid.Column="1" Content="Off" HorizontalAlignment="Left" Margin="260,143,0,0" VerticalAlignment="Top" Width="55" Height="40" FontWeight="Bold" Click="btnValoOff_Click"/>
+        <TextBlock x:Name="txblckOlohuoneValosäädin" Grid.Column="1" HorizontalAlignment="Left" Margin="10,188,0,0" TextWrapping="Wrap" Text="Kirkkaus" VerticalAlignment="Top" FontSize="14" FontWeight="Bold" Width="100" Height="25"/>
+        <Slider x:Name="sldValo1" Grid.Column="1" Value="50" HorizontalAlignment="Left" Margin="10,218,0,0" VerticalAlignment="Top" Width="305" Maximum="100" IsEnabled="False" IsSnapToTickEnabled="True" TickPlacement="BottomRight" TickFrequency="10" Height="25" ValueChanged="SldValo_ValueChanged"/>
+
+        <!-- Keittiö -->
+        <TextBlock x:Name="txblckKeittio" Grid.Column="1" HorizontalAlignment="Center" Margin="9,254,295,0" TextWrapping="Wrap" Text="Keittiö" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" Height="35" Width="94"/>
+        <TextBlock x:Name="txblckKeittioValot" Grid.Column="1" HorizontalAlignment="Left" Margin="10,292,0,0" TextWrapping="Wrap" Text="Valaisimet" VerticalAlignment="Top" Height="25" Width="97" FontSize="16" FontWeight="Bold"/>
+        <Button x:Name="btnValo2On" Grid.Column="1" Content="On" HorizontalAlignment="Left" Margin="10,322,0,0" VerticalAlignment="Top" Width="55" Height="40" FontWeight="Bold" Click="btnValoOn_Click" RenderTransformOrigin="-5.273,5.913"/>
+        <TextBox x:Name="txtValo2" Grid.Column="1" HorizontalAlignment="Center" Height="40" Padding="10 10 0 0" Margin="71,322,143,0"  TextAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="184" FontWeight="Bold" BorderThickness="2"/>
+        <Button x:Name="btnValo2Off" Grid.Column="1" Content="Off" HorizontalAlignment="Left" Margin="260,322,0,0" VerticalAlignment="Top" Width="55" Height="40" FontWeight="Bold" Click="btnValoOff_Click"/>
+        <TextBlock x:Name="txblckKeittioValosäädin" Grid.Column="1" HorizontalAlignment="Left" Margin="9,367,0,0" TextWrapping="Wrap" Text="Kirkkaus" VerticalAlignment="Top" FontSize="14" FontWeight="Bold" Width="100" Height="25"/>
+        <Slider x:Name="sldValo2" Grid.Column="1" Value="50" HorizontalAlignment="Left" Margin="10,397,0,0" VerticalAlignment="Top" Width="305" Maximum="100" IsEnabled="False" IsSnapToTickEnabled="True" TickPlacement="BottomRight" TickFrequency="10" Height="25" ValueChanged="SldValo_ValueChanged"/>
+
+        <!-- Sauna -->
+        <TextBox x:Name="txtSauna" HorizontalAlignment="Left" Height="40" Margin="9,22,-55,0" TextWrapping="Wrap" Padding="2 0 0 0" Text="Sauna" BorderThickness="1" BorderBrush="Black" Background="Coral" VerticalAlignment="Top" Width="454" FontSize="24" FontWeight="Bold" Grid.Column="2"/>
+        <TextBlock x:Name="txblckKiuas" Grid.Column="2" HorizontalAlignment="Left" Margin="9,110,0,0" TextWrapping="Wrap" Text="Kiuas" VerticalAlignment="Top" Height="25" Width="98" FontSize="16" FontWeight="Bold"/>
+        <TextBox x:Name="txtKiuas" Grid.Column="2" HorizontalAlignment="Center" Height="40" Margin="9,143,269,0" Padding="0 10 0 0" TextWrapping="Wrap" VerticalAlignment="Top" Width="130" FontWeight="Bold" FontSize="14" TextAlignment="Center" BorderThickness="2" BorderBrush="Gray" RenderTransformOrigin="0.677,0.4"/>
+        <Button x:Name="btnKiuasOn" Grid.Column="2" Content="On" HorizontalAlignment="Left" Margin="10,186,0,0" VerticalAlignment="Top" Width="55" Height="40" FontWeight="Bold" Click="btnKiuas_Click"/>
+        <Button x:Name="btnKiuasOff" Grid.Column="2" Content="Off" HorizontalAlignment="Left" Margin="84,186,0,0" VerticalAlignment="Top" Width="55" Height="40" FontWeight="Bold" Click="btnKiuas_Click"/>
+        <TextBlock x:Name="txblckKiuasTemp" Grid.Column="2" HorizontalAlignment="Left" Margin="9,292,0,0" TextWrapping="Wrap" Text="Kiukaan lämpötila" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Width="148" Height="21"/>
+        <TextBox x:Name="txtKiuasTempSet" Grid.Column="2" HorizontalAlignment="Left" Height="40" Margin="9,322,0,0" Padding="0 10 0 0" TextWrapping="Wrap" VerticalAlignment="Top" Width="56" FontWeight="Bold" TextAlignment="Center" RenderTransformOrigin="0.446,1.425"/>
+        <Button x:Name="btnTempSetKiuas" Grid.Column="2" Content="Aseta" HorizontalAlignment="Left" Margin="9,367,0,0" VerticalAlignment="Top" Width="76" FontWeight="Bold" Click="btnTempSetKiuas_Click" Height="20"/>
+
+        <!-- Löylymittari -->
+        <CircularGauge:CircularGaugeControl Grid.Column="2" Name="SaunaLampomittari" Radius="40" PointerLength="80" PointerThickness ="10" PointerCapRadius="30" ScaleLabelRadius="90" DialText="Löylymittari" DialTextColor="Black" DialTextOffset="-50" MajorDivisionsCount="10" GaugeBackgroundColor="GhostWhite" RangeIndicatorThickness="5" RangeIndicatorRadius="0" RangeIndicatorLightRadius="0" MaxValue="120" HorizontalAlignment="Left" Height="235" Margin="209,131,-55,0" VerticalAlignment="Top" Width="254"/>
+
+        <!-- Talon status-->
+        <Button x:Name="btnStatuspdate" Content="Tila" ToolTip="Paina tästä nähdäksesi laitteiden tilan" Background="LightSeaGreen" HorizontalAlignment="Left" Margin="10,322,0,0" VerticalAlignment="Top" Width="277" FontWeight="Bold" Click="btnStatuspdate_Click" Height="40" FontSize="14"/>
+        <TextBlock x:Name="txblckTaloStatus" HorizontalAlignment="Left" Margin="11,423,0,0" TextWrapping="Wrap" Text="Talon laitteiden tila" VerticalAlignment="Top" FontSize="16" FontWeight="Bold"/>
+        <DataGrid x:Name="dgStatus" HorizontalAlignment="Left" Height="65" Margin="11,452,0,0" VerticalAlignment="Top" Width="678" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>

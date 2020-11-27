@@ -1,0 +1,10 @@
+Älytalosovellus, Lauri Leskinen v 2.0
+
+Release Notes
+-------------
+
+Known bugs:
+
+- Saunan lämpömittarissa maksimi- ja mnimilämpötilaan tulee jostain syystä muutaman asteen heitto, kun mittarin annetaan mennä alusta loppuun asti ja takaisin. Tämä näkyy mm siten, että kun kun painaa OFF painiketta saunan lämpötilan ollessa huipussaan tai ON painiketta sen ollessa lähtölämpötilassa, seuraa muutaman sekunnin viive, ennen kuin mittari lähtee laskemaan tai nousemaan. Heitto mittarissa olevaan lämpötilaan näkyy myös tila-taulukomn kohdassa Saunan lämpötila.
+
+- Puhesyntetisaattori ei toimi silloin, kun sauna kytketään päälle.
